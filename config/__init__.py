@@ -1,0 +1,1 @@
+from .env_settings import supabase,settings
